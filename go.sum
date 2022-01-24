@@ -2,3 +2,5 @@ github.com/dannyarw/go-say-hello v1.0.0 h1:nRo+TbYyMiwkvlki1ysDwhkquRgii1qEqUpRt
 github.com/dannyarw/go-say-hello v1.0.0/go.mod h1:hz0q3L0rKRKpX135zsoai/Hl9TTrrn8rhlp1AsHVQFQ=
 github.com/dannyarw/go-say-hello v1.5.0 h1:A51PdXT9GpDyvH/Yh1BXWWRRv9FS6624n6TWE92jS5E=
 github.com/dannyarw/go-say-hello v1.5.0/go.mod h1:hz0q3L0rKRKpX135zsoai/Hl9TTrrn8rhlp1AsHVQFQ=
+github.com/dannyarw/go-say-hello/v2 v2.0.0 h1:hHvXA8QBWrVzunPCz1nVfEaazapZmNNTVF6LhKFLVi8=
+github.com/dannyarw/go-say-hello/v2 v2.0.0/go.mod h1:eWC4bdu56HFM2b1NEP4DiiXnwHvLxaAGe8/0ZGPXnUI=
